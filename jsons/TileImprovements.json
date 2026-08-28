@@ -10,6 +10,15 @@
 		"shortcutKey": "F"
 	},
 	{
+		"name": "Clay Pit",
+		"production": 1,
+		"gold": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Pottery",
+		"uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "C"
+	},
+	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Unbuildable"],
