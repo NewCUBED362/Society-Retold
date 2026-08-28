@@ -45,5 +45,21 @@
 				"quote": "'The year speaks, if we learn to listen.' - Traditional saying, attributed to the First Farmers",
 			}
 		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Neolithic era",
+		"techCost": 40,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Water Management",
+				"row": 7,
+				"cost": 55,
+				"prerequisites": ["Seasonal Knowledge"],
+				"quote": "'Water is life, but only when we learn where to put it.' - Traditional saying of the River Settlers",
+			}
+		]
 	}
 ]
