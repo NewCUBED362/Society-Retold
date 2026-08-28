@@ -9,4 +9,26 @@
                     "Generated on every [32] tiles <in [{Featureless} {Grassland}] tiles>",
 			        "Generated on every [40] tiles <in [{Featureless} {Plains}] tiles>"]
 	},
+	{
+		"name": "Cattle",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [""],
+		"food": 1,
+		"production": 1,
+		"improvement": "Pasture",
+	},
+	{
+		"name": "Sheep",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [""],
+		"food": 1,
+		"improvement": "Pasture",
+	},
+	{
+		"name": "Goats",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": [""],
+		"food": 1,
+		"improvement": "Pasture",
+	}
 ]
