@@ -23,9 +23,13 @@
 	{
 		"name": "Sheep",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": [""],
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Hill"],
 		"food": 1,
 		"improvement": "Pasture",
+		"uniques": ["Generated on every [24] tiles <in [{Grassland} {Hill}] tiles>",
+			        "Generated on every [24] tiles <in [{Plains} {Hill}] tiles>",
+			        "Generated on every [30] tiles <in [{Tundra} {Hill}] tiles>",
+			        "Generated on every [35] tiles <in [{Featureless} {Grassland}] tiles>"],
 	},
 	{
 		"name": "Goats",
