@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Palace",
+		"isNationalWonder": true,
+		"cityStrength": 2.5,
+		"cost": 0,
+		"uniques": ["Indicates the capital city",
+		            "[+5 Food, +5 Production, +5 Happiness]"],
+	},
+]
