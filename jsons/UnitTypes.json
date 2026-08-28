@@ -7,4 +7,8 @@
         "name": "Sword",
         "movementType": "Land"
     },
+    {
+        "name": "Archery",
+        "movementType": "Land"
+    },
 ]
