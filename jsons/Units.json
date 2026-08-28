@@ -34,6 +34,6 @@
 		"rangedStrength": 8,
 		"range": 2,
 		"requiredTech": "Archery",
-		"uniques": ["Only available <if [Archery Range] is constructed in all [in this city] cities>"],
+		"uniques": ["Can only be built <in cities with a [Archery Range]>"],
 	}	
 ]
