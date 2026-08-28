@@ -23,5 +23,16 @@
     "movement": 2,
     "cost": 30,
     "requiredTech": "Agriculture",
-  }
+  },
+	// Modded
+	{
+		"name": "Archer",
+		"unitType": "Archery",
+		"cost": 40,
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 8,
+		"range": 2,
+		"requiredTech": "Archery",
+	}	
 ]
