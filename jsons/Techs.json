@@ -31,6 +31,11 @@
 				"name": "Animal Husbandry",
 				"row": 5,
 				"prerequisites": ["Agriculture"],
+			},
+			{
+				"name": "Archery",
+				"row": 7,
+				"prerequisites": ["Agriculture"],
 			}
 		]
 	}
