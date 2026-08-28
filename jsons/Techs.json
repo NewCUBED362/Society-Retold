@@ -40,6 +40,7 @@
 			{
 				"name": "Seasonal Knowledge",
 				"row": 7,
+				"cost": 35,
 				"prerequisites": ["Agriculture"],
 			}
 		]
