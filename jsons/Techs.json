@@ -29,11 +29,16 @@
 			},
 			{
 				"name": "Animal Husbandry",
-				"row": 5,
+				"row": 3,
 				"prerequisites": ["Agriculture"],
 			},
 			{
 				"name": "Archery",
+				"row": 5,
+				"prerequisites": ["Agriculture"],
+			},
+			{
+				"name": "Seasonal Knowledge",
 				"row": 7,
 				"prerequisites": ["Agriculture"],
 			}
