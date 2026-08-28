@@ -2,7 +2,7 @@
 	{
 		"name": "Clay",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
+		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra","Plains"],
 		"production": 1,
 		"improvement": "Clay Pit",
 		"uniques": ["Generated on every [14] tiles <in tiles adjacent to [Fresh Water] tiles>",
