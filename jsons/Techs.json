@@ -42,6 +42,7 @@
 				"row": 7,
 				"cost": 35,
 				"prerequisites": ["Agriculture"],
+				"quote": "'The year speaks, if we learn to listen.' - Traditional saying, attributed to the First Farmers",
 			}
 		]
 	}
