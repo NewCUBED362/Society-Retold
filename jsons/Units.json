@@ -35,5 +35,13 @@
 		"range": 2,
 		"requiredTech": "Archery",
 		"uniques": ["Can only be built <in cities with a [Archery Range]>"],
-	}	
+	}
+	{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"requiredTech": "Seasonal Knowledge",
+		"uniques": ["Can build [Waymarker] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	},
 ]
