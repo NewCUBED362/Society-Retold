@@ -29,6 +29,7 @@
 	},
 	{
 		"name": "Waymarker",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra","Snow"],
 		"science": 1,
 		"culture": 1,
 		"techRequired": "Seasonal Knowledge",
