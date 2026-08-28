@@ -34,5 +34,13 @@
 		"culture": 1,
 		"requiredTech": "Archery",
 		"uniques": ["[+15]% Production when constructing [Ranged] units [in this city]"],
+	},
+	{
+		"name": "Seasonal Calendar",
+		"cost": 45,
+		"food": 1,
+		"science": 1,
+		"happiness": 1,
+		"requiredTech": "Seasonal Knowledge",
 	}
 ]
