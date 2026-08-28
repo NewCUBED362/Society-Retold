@@ -33,5 +33,6 @@
 		"production": 1,
 		"culture": 1,
 		"requiredTech": "Archery",
+		"uniques": ["[+15]% Production when constructing [Ranged] units [in this city]"],
 	}
 ]
