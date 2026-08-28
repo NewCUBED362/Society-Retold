@@ -36,6 +36,16 @@
 		"uniques": ["Pillaging this improvement yields approximately [+20 Gold]"],
 	},
 	{
+		"name": "Irrigation Ditch",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Water Management",
+		"uniques": ["Can also be built on tiles adjacent to fresh water",
+                "Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "I"
+	},
+	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Unbuildable"],
