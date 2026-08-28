@@ -26,5 +26,12 @@
 		"food": 1,
 		"production": 1,
 		"requiredTech": "Animal Husbandry",
+	},
+	{
+		"name": "Archery Range",
+		"cost": 60,
+		"production": 1,
+		"culture": 1,
+		"requiredTech": "Archery",
 	}
 ]
