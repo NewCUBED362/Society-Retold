@@ -42,5 +42,12 @@
 		"science": 1,
 		"happiness": 1,
 		"requiredTech": "Seasonal Knowledge",
+	},
+	{
+		"name": "Well",
+		"cost": 55,
+		"food": 1,
+		"happiness": 1,
+		"requiredTech": "Water Management",
 	}
 ]
