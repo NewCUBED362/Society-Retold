@@ -13,5 +13,20 @@
 				"uniques": ["Starting tech"]
 			}
 		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "Neolithic era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Pottery",
+				"row": 1,
+				"prerequisites": ["Agriculture"],
+				"quote": "The development of fired clay containers and simple ceramic construction.",
+			}
+		]
 	}
 ]
