@@ -28,6 +28,13 @@
 		"shortcutKey": "P"
 	},
 	{
+		"name": "Waymarker",
+		"science": 1,
+		"culture": 1,
+		"techRequired": "Seasonal Knowledge",
+		"uniques": ["Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Unbuildable"],
