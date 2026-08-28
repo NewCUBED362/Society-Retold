@@ -20,5 +20,11 @@
 		"production": 1,
 		"gold": 1,
 		"requiredTech": "Pottery",
+	},
+	{
+		"name": "Animal Pen",
+		"food": 1,
+		"production": 1,
+		"requiredTech": "Animal Husbandry",
 	}
 ]
