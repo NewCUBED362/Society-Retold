@@ -13,5 +13,12 @@
 		"food": 2,
 		"happiness": 1,
 		"requiredTech": "Pottery",
-	}		
+	},
+	{
+		"name": "Potter's Workshop",
+		"cost": 50,
+		"production": 1,
+		"gold": 1,
+		"requiredTech": "Pottery",
+	}
 ]
