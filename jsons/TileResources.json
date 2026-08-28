@@ -34,8 +34,12 @@
 	{
 		"name": "Goats",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": [""],
+		"terrainsCanBeFoundOn": ["Grassland","Tundra","Plains","Desert","Hill"],
 		"food": 1,
 		"improvement": "Pasture",
+		"uniques": ["Generated on every [20] tiles <in [{Grassland} {Hill}] tiles>",
+			        "Generated on every [20] tiles <in [{Plains} {Hill}] tiles>",
+			        "Generated on every [28] tiles <in [{Tundra} {Hill}] tiles>",
+			        "Generated on every [35] tiles <in [{Desert} {Hill}] tiles>"],
 	}
 ]
