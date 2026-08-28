@@ -37,11 +37,11 @@
 		"uniques": ["Can only be built <in cities with a [Archery Range]>"],
 	}
 	{
-		"name": "Worker",
+		"name": "Pathfinder",
 		"unitType": "Civilian",
 		"movement": 2,
 		"requiredTech": "Seasonal Knowledge",
-		"uniques": ["Can build [Waymarker] improvements on tiles", "Automation is a primary action"],
+		"uniques": ["Can instantly construct a [Waymarker] improvement <by consuming this unit>","Automation is a primary action"],
 		"cost": 70
 	},
 ]
