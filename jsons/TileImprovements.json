@@ -42,7 +42,8 @@
 		"turnsToBuild": 5,
 		"techRequired": "Water Management",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
-                "Pillaging this improvement yields approximately [+18 Gold]"],
+                "Pillaging this improvement yields approximately [+18 Gold]",
+		        "Can only be built on [Featureless] tiles <in tiles adjacent to [Fresh Water] tiles>"],
 		"shortcutKey": "I"
 	},
 	{
