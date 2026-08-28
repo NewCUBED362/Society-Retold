@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Black",
+    "leaderName": "John Doe",
+
+    "innerColor": [255,255,255],
+    "outerColor": [0,0,0],
+    "uniqueName": "W.I.P",
+    "cities": ["Black City"],
+  },
+  {
+    "name": "White",
+    "leaderName": "Jane Doe",
+
+    "innerColor": [0,0,0],
+    "outerColor": [255,255,255],
+    "uniqueName": "W.I.P",
+    "cities": ["White City"],
+  },
+]
+      
