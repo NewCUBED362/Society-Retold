@@ -7,4 +7,11 @@
 		"uniques": ["Indicates the capital city",
 		            "[+5 Food, +5 Production, +5 Happiness]"],
 	},
+	{
+		"name": "Granary",
+		"cost": 40,
+		"food": 2,
+		"happiness": 1,
+		"requiredTech": "Pottery",
+	}		
 ]
