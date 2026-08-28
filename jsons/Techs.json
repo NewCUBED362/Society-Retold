@@ -23,9 +23,14 @@
 		"techs": [
 			{
 				"name": "Pottery",
-				"row": 1,
+				"row": 2,
 				"prerequisites": ["Agriculture"],
 				"quote": "The development of fired clay containers and simple ceramic construction.",
+			},
+			{
+				"name": "Animal Husbandry",
+				"row": 5,
+				"prerequisites": ["Agriculture"],
 			}
 		]
 	}
