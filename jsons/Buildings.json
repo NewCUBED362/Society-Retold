@@ -66,5 +66,13 @@
 		"happiness": 1,
 		"requiredTech": "Food Preservation",
 		"uniques": ["[+10]% growth [in this city]"],
+	},
+	{
+		"name": "Village Hall",
+		"cost": 65,
+		"production": 1,
+		"culture": 1,
+		"happiness": 1,
+		"requiredTech": "Communal Organization",
 	}
 ]
