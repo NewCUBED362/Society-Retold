@@ -59,6 +59,13 @@
 				"cost": 55,
 				"prerequisites": ["Seasonal Knowledge"],
 				"quote": "'Water is life, but only when we learn where to put it.' - Traditional saying of the River Settlers",
+			},
+			{
+				"name": "Fiberworking",
+				"row": 3,
+				"cost": 50,
+				"prerequisites": ["Pottery","Animal Husbandry"],
+				"quote": "'A single thread is weak. Woven together, they become strong.' - Traditional saying of the First Weavers",
 			}
 		]
 	}
