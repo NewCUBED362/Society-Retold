@@ -55,6 +55,15 @@
 		"uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+20 Gold]"],
 	},
 	{
+		"name": "Saltworks",
+		"food": 1,
+		"gold": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Food Preservation",
+		"uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "S"
+	},
+	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Unbuildable"],
