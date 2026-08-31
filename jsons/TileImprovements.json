@@ -47,6 +47,14 @@
 		"shortcutKey": "I"
 	},
 	{
+		"name": "Ropewalk",
+		"production": 1,
+		"gold": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Fiberworking",
+		"uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+20 Gold]"],
+	},
+	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Unbuildable"],
