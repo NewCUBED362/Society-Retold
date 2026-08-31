@@ -52,5 +52,16 @@
 			        "Generated on every [30] tiles <in [{Featureless} {Plains}] tiles> <in tiles adjacent to [Fresh Water] tiles>",
 		            "Generated on every [45] tiles <in [{Featureless} {Grassland}] tiles>",
 			        "Generated on every [55] tiles <in [{Featureless} {Plains}] tiles>"],
+	},
+	{
+		"name": "Salt",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"production": 1,
+		"improvement": "Ropewalk",
+		"uniques": ["Generated on every [25] tiles <in tiles adjacent to [Coast] tiles>",
+                    "Generated on every [35] tiles <in [{Featureless} {Desert}] tiles> <with [0] to [2] neighboring [Desert] tiles>",
+			        "Generated on every [45] tiles <in [{Featureless} {Plains}] tiles> <within [3] tiles of a [Desert] tile>",
+		            "Doesn't generate naturally <in [Fresh Water] tiles>"],
 	}
 ]
