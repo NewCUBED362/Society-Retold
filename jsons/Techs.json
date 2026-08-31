@@ -69,10 +69,17 @@
 			},
 			{
 				"name": "Food Preservation",
-				"row": 4,
+				"row": 5,
 				"cost": 50,
 				"prerequisites": ["Pottery","Seasonal Knowledge"],
 				"quote": "'The harvest feeds us once. What we preserve feeds us through the winter.' - Old Farmer's Proverb",
+			},
+			{
+				"name": "Communal Organization",
+				"row": 4,
+				"cost": 60,
+				"prerequisites": ["Animal Husbandry"],
+				"quote": "'Many hands build what one hand cannot.' - Neolithic proverb",
 			}
 		]
 	}
