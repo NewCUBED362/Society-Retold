@@ -65,6 +65,6 @@
 		"food": 1,
 		"happiness": 1,
 		"requiredTech": "Food Preservation",
-		"uniques": ["[+1 Food] from [Sheep] tiles [in this city]"],
+		"uniques": ["[+10]% growth [in this city]"],
 	}
 ]
