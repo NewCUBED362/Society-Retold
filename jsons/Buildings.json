@@ -74,5 +74,12 @@
 		"culture": 1,
 		"happiness": 1,
 		"requiredTech": "Communal Organization",
+	},
+	{
+		"name": "Longhouse",
+		"cost": 50,
+		"food": 1,
+		"happiness": 1,
+		"requiredTech": "Communal Organization",
 	}
 ]
