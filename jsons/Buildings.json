@@ -56,5 +56,6 @@
 		"production": 1,
 		"culture": 1,
 		"requiredTech": "Fiberworking",
+		"uniques": ["[+1 Food] from [Sheep] tiles [in this city]"],
 	}
 ]
