@@ -50,4 +50,11 @@
 		"happiness": 1,
 		"requiredTech": "Water Management",
 	}
+	{
+		"name": "Weaver's Hut",
+		"cost": 50,
+		"production": 1,
+		"culture": 1,
+		"requiredTech": "Fiberworking",
+	}
 ]
