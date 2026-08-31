@@ -41,5 +41,16 @@
 			        "Generated on every [20] tiles <in [{Plains} {Hill}] tiles>",
 			        "Generated on every [28] tiles <in [{Tundra} {Hill}] tiles>",
 			        "Generated on every [35] tiles <in [{Desert} {Hill}] tiles>"],
+	},
+	{
+		"name": "Flax",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"production": 1,
+		"improvement": "Ropewalk",
+		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles> <in tiles adjacent to [Fresh Water] tiles>",
+			        "Generated on every [30] tiles <in [{Featureless} {Plains}] tiles> <in tiles adjacent to [Fresh Water] tiles>",
+		            "Generated on every [45] tiles <in [{Featureless} {Grassland}] tiles>",
+			        "Generated on every [55] tiles <in [{Featureless} {Plains}] tiles>"],
 	}
 ]
